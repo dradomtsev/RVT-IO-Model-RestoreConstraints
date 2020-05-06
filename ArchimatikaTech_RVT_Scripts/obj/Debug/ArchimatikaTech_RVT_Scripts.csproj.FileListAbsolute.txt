@@ -1,0 +1,10 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\ArchimatikaTech_RVT_Scripts\AddIn\ArchimatikaTech_RVT_Scripts.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\ArchimatikaTech_RVT_Scripts\AddIn\ArchimatikaTech_RVT_Scripts.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\ArchimatikaTech_RVT_Scripts\Source\ArchimatikaTech_RVT_Scripts\obj\Debug\ArchimatikaTech_RVT_Scripts.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\ArchimatikaTech_RVT_Scripts\Source\ArchimatikaTech_RVT_Scripts\obj\Debug\ArchimatikaTech_RVT_Scripts.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\ArchimatikaTech_RVT_Scripts\Source\ArchimatikaTech_RVT_Scripts\obj\Debug\ArchimatikaTech_RVT_Scripts.pdb
+W:\#Res\1\1IM\SoftWare\Revit\ArchimatikaTech_RVT_Scripts\Source\ArchimatikaTech_RVT_Scripts\obj\Debug\ArchimatikaTech_RVT_Scripts.csproj.CoreCompileInputs.cache
+W:\#Res\1\1IM\SoftWare\Revit\ArchimatikaTech_RVT_Scripts\Addin\ArchimatikaTech_RVT_Scripts.dll
+W:\#Res\1\1IM\SoftWare\Revit\ArchimatikaTech_RVT_Scripts\Addin\ArchimatikaTech_RVT_Scripts.pdb
+W:\#Res\1\1IM\SoftWare\Revit\ArchimatikaTech_RVT_Scripts\Source\ArchimatikaTech_RVT_Scripts\obj\Debug\ArchimatikaTech_RVT_Scripts.dll
+W:\#Res\1\1IM\SoftWare\Revit\ArchimatikaTech_RVT_Scripts\Source\ArchimatikaTech_RVT_Scripts\obj\Debug\ArchimatikaTech_RVT_Scripts.pdb
